@@ -1,0 +1,23 @@
+segment_sources:
+  P9A49B482:
+    type: origin_type
+    relation: translation
+    language: sa
+  P7FE00277:
+    type: origin_type
+    relation: translation
+    language: bo
+  P4C36BE15:
+    type: origin_type
+    relation: translation
+    language: zh
+  P649939EE:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  bea7ecda8e704f568ed4b8f70f02cc63:
+    P9A49B482: 02e891659ad94fdfb5af105434cea100
+    P7FE00277: ecdea4e94a254e2889f682bc730393c0
+    P4C36BE15: 050530b303494705935a6ef10c0c1d83
+    P649939EE: dfd98aa111f84abd95f650f642702a1b
